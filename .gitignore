@@ -1,0 +1,41 @@
+# Virtual environment
+hirelens_env/
+.venv/
+env/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pdb
+
+# Environment secrets
+.env
+
+# Data files
+data/resumes/*
+data/output/*
+data/job_descriptions/*
+!data/resumes/.gitkeep
+!data/output/.gitkeep
+!data/job_descriptions/.gitkeep
+
+# Model caches
+.cache/
+*.bin
+
+# IDE
+.vscode/
+.idea/
+
+# Test coverage
+.coverage
+htmlcov/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
