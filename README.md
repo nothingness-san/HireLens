@@ -126,7 +126,3 @@ Weights are configurable via the .env file.
 - fpdf2 - PDF report generation
 
 ---
-
-## License
-
-MIT
