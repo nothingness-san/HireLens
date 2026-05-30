@@ -33,7 +33,7 @@ An NLP-based mini ATS (Applicant Tracking System) and resume analysis system bui
         python -m venv hirelens_env
 
         Windows:
-        hirelens_env\Scriptsctivate
+        hirelens_env\Scripts\activate
 
         macOS / Linux:
         source hirelens_env/bin/activate
